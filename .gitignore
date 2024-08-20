@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+00/HelloWorld
+.vscode/tasks.json
