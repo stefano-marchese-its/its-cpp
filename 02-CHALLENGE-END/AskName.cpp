@@ -12,7 +12,7 @@ int main () {
 
     cout<< "What's ur name bb?"<<endl;
     cin >> name;
-    cout<<"Nice name" <<name;
+    cout<<"Nice name " <<name <<endl;
 
     return(0);
 }
