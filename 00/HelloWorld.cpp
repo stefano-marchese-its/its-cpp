@@ -4,10 +4,12 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main(){
     
-    std::cout << "Hello World!!!\n";
-    std::cout << std::endl << std::endl;
+    cout << "Hello World!!!\n";
+    cout << endl << endl;
   
     return (0);
 }
