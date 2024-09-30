@@ -27,9 +27,8 @@
 *.lib
 
 # Executables
+*
 *.exe
 *.out
 *.app
-00/HelloWorld
 .vscode/tasks.json
-01/HelloWorld_01
