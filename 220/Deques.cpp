@@ -1,5 +1,5 @@
 // Learning C++
-// Iterators examples
+// Deque examples
 
 #include <iostream>
 #include <deque>

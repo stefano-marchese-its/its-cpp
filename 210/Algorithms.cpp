@@ -1,5 +1,5 @@
 // Learning C++
-// Iterators examples
+// Algorithm examples
 
 #include <iostream>
 #include <vector>
