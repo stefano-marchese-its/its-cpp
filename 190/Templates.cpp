@@ -3,9 +3,9 @@
 
 #include <iostream>
 
-#define MY_ENDL cout << endl << endl
-
 using namespace std;
+
+#define MY_ENDL cout << endl << endl
 
 template <typename T>
 T myMax(T a, T b) {
