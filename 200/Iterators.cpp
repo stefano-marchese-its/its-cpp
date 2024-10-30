@@ -1,5 +1,5 @@
 // Learning C++
-// Templates examples
+// Iterators examples
 
 #include <iostream>
 #include <vector>
