@@ -38,5 +38,16 @@ int main() {
     }
     my_endl();
 
+    for (auto it = grades.find("Paperone"); it != grades.end(); ++it) {
+        if (it->second == 6) {
+            grades.erase(it);
+            break;
+        }
+    }
+
+    print_grades(grades);
+
+    my_endl();
+
     return 0;    
 }
